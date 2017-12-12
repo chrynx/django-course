@@ -1,0 +1,13 @@
+div {
+  background: red;
+  padding: 10px;
+  margin: 0 auto;
+  width: 100px;
+  border: 2px solid black;
+  margin-top: 100px;
+}
+
+div p {
+  text-align: center;
+  color: white;
+}

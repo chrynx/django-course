@@ -1,0 +1,13 @@
+body {
+  background: grey;
+}
+
+div {
+  background: blue;
+  color: white;
+}
+
+span {
+  background: red;
+  border: 2px solid green;
+}
